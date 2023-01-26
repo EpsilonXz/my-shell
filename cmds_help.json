@@ -1,0 +1,59 @@
+{
+    "Commands": [
+        {
+            "CMD_NAME": "help",
+            "CMD_HELP": "Writes all possible commands like this"
+        },
+        {
+            "CMD_NAME": "hello",
+            "CMD_HELP": "Writes hello to screen with the computers name"
+        },
+        {
+            "CMD_NAME": "hexdump",
+            "CMD_HELP": "Takes a script in binary and dumps all the data in hex-decimal letters"
+        },
+        {
+            "CMD_NAME": "ls",
+            "CMD_HELP": "List all dirs and filenames from selected path, leave empty for current path"
+        },
+        {
+            "CMD_NAME": "pwd",
+            "CMD_HELP": "Show current path"
+        },
+        {
+            "CMD_NAME": "cd",
+            "CMD_HELP": "Move to a different directory, takes parameter where you want to go"
+        },
+        {
+            "CMD_NAME": "cls",
+            "CMD_HELP": "Clear the screen"
+        },
+        {
+            "CMD_NAME": "exec",
+            "CMD_HELP": "Execute an exe file"
+        },
+        {
+            "CMD_NAME": "ren",
+            "CMD_HELP": "Rename a file. Example: ren test1.txt test2.txt"
+        },
+        {
+            "CMD_NAME": "cp",
+            "CMD_HELP": "Copy a file. Example: cp test1.txt test2.txt"
+        },
+        {
+            "CMD_NAME": "zen",
+            "CMD_HELP": "Get the zen of python"
+        },
+        {
+            "CMD_NAME": "grep",
+            "CMD_HELP": "search for combination in a string or file. type grep for help"
+        },
+        {
+            "CMD_NAME": "exit",
+            "CMD_HELP": "Exit the shell"
+        }
+        
+
+
+    ]
+}
